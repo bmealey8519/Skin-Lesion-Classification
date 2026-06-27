@@ -90,6 +90,7 @@ The high variance in the validation accuracy curve suggests the MLP would benefi
 - scikit-learn (Logistic Regression, metrics, class weighting)
 - PyTorch (MLP, DataLoader, CrossEntropyLoss)
 - MedMNIST
+- Install dependencies with pip install medmnist torch scikit-learn matplotlib numpy
 
 ---
 
